@@ -1,0 +1,1 @@
+export {prefix, port, jwtSecretKey} from './server.config'
